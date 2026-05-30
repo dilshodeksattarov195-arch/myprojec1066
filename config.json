@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterdync",
+        "uuid": 970060,
+        "checksum": "b0h80r"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
